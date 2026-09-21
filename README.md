@@ -1,6 +1,6 @@
 # C Programming Assignments
 
-A collection of C programming assignments and practice programs created during training at **FirstBit Solutions**.
+A collection of C programming assignments and practice programs created during training at **FirstBit Solutions**.(On Going)
 
 ## Topics Covered
 
