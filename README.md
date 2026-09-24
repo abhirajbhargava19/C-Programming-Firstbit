@@ -11,4 +11,5 @@ A collection of C programming assignments and practice programs created during t
 | 3 | Conditional Statements | `if`, `if-else`, `switch-case`, nested conditions |
 | 4 | Looping | `for`, `while`, `do-while`, nested loops, `break`, `continue` |
 | 5 | Functions | All 4 types: with/without arguments × with/without return value |
-| 6 | Pointer | Pointer basics, address operator (&), dereference operator (*), pointer declaration and initialization, accessing values using pointers, pointers with variables, and basic pointer operations
+| 6 | Pointer | Pointer basics, address operator (&), dereference operator (*), pointer declaration and initialization, accessing values using pointers, pointers with variables, 
+| 7 | Arrays | One-dimensional arrays, array initialization, accessing elements, t
