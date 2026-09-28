@@ -12,4 +12,4 @@ A collection of C programming assignments and practice programs created during t
 | 4 | Looping | `for`, `while`, `do-while`, nested loops, `break`, `continue` |
 | 5 | Functions | All 4 types: with/without arguments × with/without return value |
 | 6 | Pointer | Pointer basics, address operator (&), dereference operator (*), pointer declaration and initialization, accessing values using pointers, pointers with variables, 
-| 7 | Arrays | Declaration, initialization, traversal, searching, merging, function passing, and basics of arrays & pointers.
+| 7 | Arrays | Array basics, searching, merging, function passing, and pointers
