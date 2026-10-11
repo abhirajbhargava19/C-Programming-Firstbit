@@ -16,3 +16,4 @@ A collection of C programming assignments and practice programs created during t
 | 8 | String | String handling, built-in functions, user-defined functions, and programs |
 | 9 | Malloc | Dynamic Memory Allocation malloc(), calloc(), realloc(), free(), dynamic array creation, and memory management.
 |10 | Crud Operation | Add, display, update/edit, and delete elements using arrays, pointers, and dynamic memory allocation.
+|11| Structures|	Structure declaration, initialization, accessing members, and Student, Employee, Admin & HR data management programs.
